@@ -9,4 +9,7 @@ export default defineConfig({
   },
   // 👇 Add this
   base: '/',
+  build: {
+    outDir: 'docs',
+  },
 });
