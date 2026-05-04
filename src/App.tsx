@@ -348,14 +348,6 @@ function App() {
 
           <div className="max-w-4xl mx-auto">
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
-              <a
-                href="tel:+201010488370"
-                className="bg-white/10 backdrop-blur-sm rounded-xl p-6 text-center hover:bg-white/20 transition-colors group"
-              >
-                <Phone size={32} className="text-white mx-auto mb-4 group-hover:scale-110 transition-transform" />
-                <p className="text-white font-semibold mb-2">Phone</p>
-                <p className="text-blue-100 text-sm">+20 101 048 8370</p>
-              </a>
 
               <a
                 href="mailto:maialaa312@gmail.com"
