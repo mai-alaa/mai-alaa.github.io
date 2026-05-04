@@ -108,7 +108,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Mai Alaa**
 - Email: maialaa312@gmail.com
-- Phone: +20 101 048 8370
 - LinkedIn: [linkedin.com/in/mai-alaa](https://linkedin.com/in/mai-alaa)
 - GitHub: [github.com/mai-alaa](https://github.com/mai-alaa)
 
